@@ -47,7 +47,7 @@ const Navbar = () => {
         </div>
 
         {/* Search Bar */}
-        <div className="absolute left-1/2 bottom-[-40px] transform -translate-x-1/2 z-20 w-full flex justify-center">
+        <div className="absolute left-1/2 bottom-[-50px] transform -translate-x-1/2 z-20 w-full flex justify-center">
           <SearchBar />
         </div>
       </div>
