@@ -30,7 +30,7 @@ const Navbar = () => {
         <div className="flex flex-col items-center justify-center flex-1 text-center px-4">
           <h2 className="text-5xl font-bold mb-4 drop-shadow-md text-black">We Find The Best Tours For You</h2>
           <p className="text-lg drop-shadow-sm text-black max-w-2xl mx-auto mb-2">
-            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
+             hello Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
             Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
           </p>
           {/* Optional: Watch Video Button and Image */}
