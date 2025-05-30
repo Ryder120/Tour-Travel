@@ -36,7 +36,7 @@ const Cities = () => {
                     </button>
                 ))}
             </div>
-            <div className="w-full flex justify-center mt-12">
+            <div className="w-full flex justify-center mt-8">
                 <div className="w-full max-w-7xl relative">
                     <img
                         src="src/Component/pic/Rectangle 156.png"
