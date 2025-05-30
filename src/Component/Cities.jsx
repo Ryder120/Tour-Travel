@@ -22,7 +22,7 @@ const cityList = [
 const Cities = () => {
     return (
         <div className="flex flex-col items-center justify-center flex-1 text-center px-4 bg-[#F5F8FA] min-h-screen">
-            <h2 className="text-5xl font-bold mt-16 drop-shadow-md text-black">Explore Popular Cities</h2>
+            <h2 className="text-5xl font-bold mt-20 drop-shadow-md text-black">Explore Popular Cities</h2>
             <p className="text-base text-gray-500 max-w-2xl mx-auto mt-5">
                 Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
             </p>
@@ -43,9 +43,9 @@ const Cities = () => {
                         alt="Alaska"
                         className="w-full h-[400px] object-cover rounded-none shadow-lg"
                     />
-                    <div className="absolute left-0 right-0 -bottom-45 mx-auto w-[95%]">
-                        <div className="flex flex-col md:flex-row bg-white rounded-[12px] shadow-lg px-8 py-6 border border-blue-100 items-start md:items-center">
-                            <div className="flex-3 text-left">
+                    <div className="absolute left-0 right-0 -bottom-23 mx-auto w-[95%]">
+                        <div className="flex flex-col md:flex-row bg-white rounded-[4px] shadow-lg px-8 py-6 border border-blue-100 items-start md:items-center">
+                            <div className=" w-2/3  text-left">
                                 <h1 className="font-bold text-3xl md:text-4xl mb-2 text-black">Alaska</h1>
                                 <p className="text-gray-500 text-base md:text-sm">
                                     Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
