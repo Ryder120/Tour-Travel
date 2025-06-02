@@ -17,12 +17,12 @@ const Navbar = () => {
         <div className="flex justify-between items-center px-12 py-6">
           <h1 className="text-2xl font-bold text-white font-serif">tour guide</h1>
           <div className="flex items-center space-x-6">
-            <a href="/home" className="hover:text-gray-400 text-white">Home</a>
-            <a href="/about" className="hover:text-gray-400 text-white">About Us</a>
-            <a href="/popular destination" className="hover:text-gray-400 text-white">Popular Destinations</a>
-            <a href="/tours" className="hover:text-gray-400 text-white">Our Packages</a>
-            <a href="/help" className="hover:text-gray-400 text-white">Help</a>
-            <button className="bg-[#FFDA32] hover:bg-gray-700 text-black font-bold py-2 px-6 rounded ml-4">Sign In</button>
+            <a href="/home" className="hover:text-yellow-500 text-white">Home</a>
+            <a href="/about" className="hover:text-yellow-500 text-white">About Us</a>
+            <a href="/popular destination" className="hover:text-yellow-500 text-white">Popular Destinations</a>
+            <a href="/tours" className="hover:text-yellow-500 text-white">Our Packages</a>
+            <a href="/help" className="hover:text-yellow-500 text-white">Help</a>
+            <button className="bg-[#FFDA32] hover:bg-yellow-400 cursor-pointer text-black font-bold py-2 px-6 rounded ml-4">Sign In</button>
           </div>
         </div>
 
@@ -30,8 +30,8 @@ const Navbar = () => {
         <div className="flex flex-col items-center justify-center flex-1 text-center px-4">
           <h2 className="text-5xl font-bold mb-4 drop-shadow-md text-black">We Find The Best Tours For You</h2>
           <p className="text-lg drop-shadow-sm text-black max-w-2xl mx-auto mb-2">
-             hello Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
-            Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
+            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
+            Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet veniam consequat.
           </p>
           {/* Optional: Watch Video Button and Image */}
           <div className="flex flex-col items-center mt-6">

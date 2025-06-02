@@ -48,7 +48,7 @@ const SearchBar = () => {
             </div>
 
             {/* Search Button */}
-            <button className="ml-6 bg-yellow-300 hover:bg-yellow-400 text-black font-semibold rounded-full px-8 py-2 shadow text-lg transition">
+            <button className="ml-6 bg-yellow-300 cursor-pointer hover:bg-yellow-400 text-black font-semibold rounded-full px-8 py-2 shadow text-lg transition">
                 Search
             </button>
         </div>
