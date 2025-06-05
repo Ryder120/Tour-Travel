@@ -5,6 +5,8 @@ import Wildlife from './Component/Wildlife'
 import Destination from './Component/Destination'
 import SmartCities from './Component/SmartCities'
 import LatestStories from './Component/LatestStories'
+import Footer from './Component/Footer'
+import Gallery from './Component/Gallery'
 
 
 const App = () => {
@@ -15,7 +17,9 @@ const App = () => {
       <Wildlife />
       <Destination />
       <SmartCities />
+      <Gallery />
       <LatestStories />
+      <Footer />
       
     </>
 
