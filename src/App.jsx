@@ -7,6 +7,9 @@ import SmartCities from './Component/SmartCities'
 import LatestStories from './Component/LatestStories'
 import Footer from './Component/Footer'
 import Gallery from './Component/Gallery'
+import VintageDouble from './Component/CityTour/VintageDouble'
+import InfoGrid from './Component/CityTour/InfoGrid'
+import Description from './Component/CityTour/Description'
 
 
 const App = () => {
@@ -20,6 +23,9 @@ const App = () => {
       <Gallery />
       <LatestStories />
       <Footer />
+      <VintageDouble />
+      <InfoGrid />
+      <Description />
       
     </>
 
