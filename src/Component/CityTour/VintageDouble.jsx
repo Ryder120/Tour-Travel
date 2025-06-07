@@ -59,7 +59,7 @@ const VintageDouble = () => {
   </form>
 </div>
               </div>
-            <div className='flex gap-4 px-1 mt-0.5  '>
+            <div className='flex gap-4 px-1   '>
 <img src="src/Component/pic/Rectangle 148.png" alt="Vintage Double Decker Bus" className=" h-auto object-cover w-33" />
                 <img src="src/Component/pic/Rectangle 149.png" alt="Thames River Cruise" className=" h-auto object-cover w-33" />
             <img src="src/Component/pic/Rectangle 150.png" alt="Vintage Double Decker Bus" className=" h-auto object-cover w-33  " />
